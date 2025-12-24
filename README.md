@@ -40,5 +40,4 @@ This project is a perfect **learning portfolio** for developers to demonstrate:
 
 ---
 
-## 📂 Project Structure
 
